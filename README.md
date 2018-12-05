@@ -7,7 +7,7 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 * [Apache MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
 * [Apache Tez](https://es.hortonworks.com/apache/tez/)
 * [Apache Beam](https://beam.apache.org/)
-* [Apache Spark](http://spark.apache.org/)
+* [Apache Spark](http://spark.apache.org/) - batch processing. Combine SQL, streaming, and complex analytics (SQL, Streaming, MLlib, GraphX)
 
 
 ## Data Platform distribution:
@@ -38,16 +38,17 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 
 
 ## SQL Processing
-* [Apache Hive](http://hive.apache.org/)
+* [Apache Hive](http://hive.apache.org/) - data warehouse software using SQL for Hadoop.
 * [Impala](https://www.cloudera.com/products/open-source/apache-hadoop/impala.html)
 
 
 
 ## External Data Storage - NoSQL:
   * #### Key Map Data Model
-      * [HBase](http://hbase.apache.org/)
-      * [Accumulo](https://accumulo.apache.org/)
-      * [Cassandra](http://cassandra.apache.org/)
+      * [HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
+      * [Accumulo](https://accumulo.apache.org/) - distributed key/value store, inspired by BigTable. Offer better security model.
+      * [Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
+      * [Redis](https://redis.io/) - distributed in-memory data structure store, used as a database, cache and message broker.
       * [Google BigTable]()
 
 
