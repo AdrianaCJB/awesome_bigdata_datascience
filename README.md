@@ -3,8 +3,8 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 
 
 ## Frameworks, Distributed Programming and Data processing:
-* [Apache Hadoop](http://hadoop.apache.org/)
-* [Apache MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
+* [Apache Hadoop](http://hadoop.apache.org/) - distributed processing of large data sets across clusters. Include HDFS, YARN and MapReduce.
+* [Apache MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html) - process vast amounts of data in-parallel on large clusters.
 * [Apache Tez](https://es.hortonworks.com/apache/tez/)
 * [Apache Beam](https://beam.apache.org/)
 * [Apache Spark](http://spark.apache.org/) - batch processing. Combine SQL, streaming, and complex analytics (SQL, Streaming, MLlib, GraphX)
