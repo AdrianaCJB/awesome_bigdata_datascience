@@ -5,14 +5,14 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 ## Frameworks, Distributed Programming and Data processing:
 * [Apache Hadoop](http://hadoop.apache.org/) - distributed processing of large data sets across clusters. Include HDFS, YARN and MapReduce.
 * [Apache MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html) - process vast amounts of data in-parallel on large clusters.
-* [Apache Tez](https://es.hortonworks.com/apache/tez/)
-* [Apache Beam](https://beam.apache.org/)
+* [Apache Tez](https://es.hortonworks.com/apache/tez/) - extensible framework for building high performance batch that accelerated Hadoop Query Processing, coordinated by YARN.
+* [Apache Beam](https://beam.apache.org/) - define and execute data processing workflows.
 * [Apache Spark](http://spark.apache.org/) - batch processing. Combine SQL, streaming, and complex analytics (SQL, Streaming, MLlib, GraphX)
 
 
 ## Data Platform distribution:
-* [Hortonoworks](https://es.hortonworks.com/)
-* [Cloudera](https://www.cloudera.com/)
+* [Hortonoworks](https://www.hortonworks.com/) - provides a Sandbox that can help you get started learning, developing and testing features about HDF. 
+* [Cloudera](https://www.cloudera.com/) - provides a VMs that make it easy to quickly self-learning purposes. Also includes a tutorial, sample data, and scripts for getting started.  
 
 
 ## User Interface:
@@ -21,26 +21,25 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 
 
 ## Cluster manager
-* [Apache YARN](https://hortonworks.com/apache/yarn/) 
-* [Apache Mesos](http://mesos.apache.org/)
+* [Apache YARN](https://hortonworks.com/apache/yarn/) - architectural center of Hadoop that allows multiple data processing engines.
+* [Apache Mesos](http://mesos.apache.org/) - kernel cluster administrator. 
 
 
 ## Data Ingestion:
-* [Kakfa](http://kafka.apache.org/)
-* [Flume](http://flume.apache.org/)
+* [Kakfa](http://kafka.apache.org/) - a high throughput published subscribed messaging system.
+* [Flume](http://flume.apache.org/) - collects and aggregates log data.
 
 
 ## Stream Processing:
-* [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html)
-* [Apache Flink](https://flink.apache.org/)
-* [Apache Storm](http://storm.apache.org/)
-* [Apache Samza](http://samza.apache.org/)
+* [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) -
+* [Apache Flink](https://flink.apache.org/) - fault-tolerant, high-performance runtime and automatic program optimization over unbounded and bounded data streams.
+* [Apache Storm](http://storm.apache.org/) - makes it easy to reliably process unbounded streams of data.
+* [Apache Samza](http://samza.apache.org/) - allows you to build stateful applications that process data in real-time from multiple sources including Kafka, run on YARN. 
 
 
 ## SQL Processing
 * [Apache Hive](http://hive.apache.org/) - data warehouse software using SQL for Hadoop.
-* [Impala](https://www.cloudera.com/products/open-source/apache-hadoop/impala.html)
-
+* [Impala](https://www.cloudera.com/products/open-source/apache-hadoop/impala.html) - massively parallel SQL engine on Hadoop. Cloudera's alternative to Hive.
 
 
 ## External Data Storage - NoSQL:
@@ -54,7 +53,7 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 
 ## Document Data Model
 * [JSON](https://www.json.org/)
-* [MongoDB](https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/) - collection of documents.
 
 
 ## Scripting:
