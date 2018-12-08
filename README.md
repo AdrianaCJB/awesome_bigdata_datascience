@@ -31,7 +31,7 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 
 
 ## Stream Processing:
-* [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) -
+* [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) - extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing.
 * [Apache Flink](https://flink.apache.org/) - fault-tolerant, high-performance runtime and automatic program optimization over unbounded and bounded data streams.
 * [Apache Storm](http://storm.apache.org/) - makes it easy to reliably process unbounded streams of data.
 * [Apache Samza](http://samza.apache.org/) - allows you to build stateful applications that process data in real-time from multiple sources including Kafka, run on YARN. 
@@ -48,7 +48,7 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
       * [Accumulo](https://accumulo.apache.org/) - distributed key/value store, inspired by BigTable. Offer better security model.
       * [Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
       * [Redis](https://redis.io/) - distributed in-memory data structure store, used as a database, cache and message broker.
-      * [Google BigTable]()
+      * [Google BigTable]() - 
 
 
 ## Document Data Model
@@ -57,25 +57,25 @@ List of Big Data Frameworks, machine learning, softwares, libraries and resource
 
 
 ## Scripting:
-* [Apache Pig](https://pig.apache.org/)
+* [Apache Pig](https://pig.apache.org/) - is a high-level platform for creating MapReduce programs that run on Hadoop.
 
 
 ## Query Engine:
-* [Apache Drill](http://drill.apache.org/)
-* [Apache Phoenix](http://phoenix.apache.org/index.html)
-* [Presto](https://prestodb.io/)
+* [Apache Drill](http://drill.apache.org/) - schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
+* [Apache Phoenix](http://phoenix.apache.org/index.html) - massively parallel, relational database engine supporting OLTP for Hadoop using Apache HBase as its backing store.
+* [Presto](https://prestodb.io/) - distributed SQL query engine for running interactive analytic queries.
 
 
 ## Coordinator:
-* [Apache Zookeeper](http://zookeeper.apache.org/)
+* [Apache Zookeeper](http://zookeeper.apache.org/) - is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
 
 ## Workflow Scheduler:
-* [Oozie](http://oozie.apache.org/)
+* [Oozie](http://oozie.apache.org/) - workflow scheduler system to manage Apache Hadoop jobs, Directed Acyclical Graphs (DAGs) of actions.
 
 
 ## Data Visualization:
-* [Apache Zeppeling](https://zeppelin.apache.org/)
+* [Apache Zeppeling](https://zeppelin.apache.org/) - web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 
 
 
